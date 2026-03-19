@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Gen AI**
 
-- 📫 How to reach me **dipayanmaiti07@gmail.com**
+- 📫 How to reach me **maitidipayan07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
