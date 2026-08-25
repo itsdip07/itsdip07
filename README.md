@@ -29,7 +29,7 @@
 <a href="https://leetcode.com/u/its_dip07/" target="_blank">
   <img
     align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg"
+    src="https://cdn.simpleicons.org/leetcode"
     alt="LeetCode - its_dip07"
     height="30"
     width="40"
